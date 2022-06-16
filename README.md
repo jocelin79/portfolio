@@ -8,7 +8,7 @@ portfólio utilizando HTML, CSS e Animações CSS, como: CSS Transitions e CSS @
 ## ⚡ Funcionalidades
 
 Principais funcionalidades da aplicação:
-- Estruturas visuais da Home Page de um portifólio.
+- Estruturas visuais da Home Page de um portfólio.
 - Estruturas visuais animadas;
 - Página responsiva; 
 
